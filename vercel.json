@@ -9,8 +9,6 @@
             "src": "/(.*)",
             "dest": "vercel_example/wsgi.py"
         }
-    ],
-    "env": {
-        "VERCEL_RUNTIME_PYTHON_VERSION": "3.11"
-    }
+    ]
+    
 }
