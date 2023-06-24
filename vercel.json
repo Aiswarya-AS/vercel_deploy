@@ -11,6 +11,6 @@
         }
     ],
     "env": {
-        "VERCEL_RUNTIME_PYTHON_VERSION": "3.9"
+        "VERCEL_RUNTIME_PYTHON_VERSION": "3.11"
     }
 }
